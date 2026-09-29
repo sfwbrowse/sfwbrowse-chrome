@@ -1,0 +1,9 @@
+{
+  "name": "sfwbrowse-chrome",
+  "version": "1.0.0",
+  "description": "Chrome MV3 distribution port for SFWbrowse",
+  "type": "module",
+  "scripts": {
+    "test": "node --test src/*.test.js"
+  }
+}
